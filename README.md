@@ -1,0 +1,3 @@
+It’s definitely possible. I learn multiple skills all the time. An example would be when I first started learning to program, I was also getting familiar with design tools such as Photoshop. In fact around that time I was just beginning to learn to play guitar too!
+
+Many frontend/UI/UX developers learn Photoshop, HTML, CSS, and JavaScript at basically the same time. Game developers typically learn 2D/3D art and their game engine of choice side-by-side. Many skills can go hand-in-hand so it can sometimes be necessary to learn them at the same time. Even if you want to learn a few skills that have no relation to one another, as long as you can find time to learn them, there’s no reason you can’t.
